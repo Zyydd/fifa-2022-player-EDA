@@ -26,7 +26,7 @@ This project explores the FIFA player dataset using Python for data cleaning, vi
 - Top players have consistent attribute performance across the board.
 
 ## 📄 Dataset
-You can find the dataset [here]([https://link-to-dataset.com](https://www.kaggle.com/datasets/stefanoleone992/fifa-22-complete-player-dataset)) or use the included file.
+You can find the dataset Here ---> https://www.kaggle.com/datasets/stefanoleone992/fifa-22-complete-player-dataset or use the included file.
 
 ---
 
